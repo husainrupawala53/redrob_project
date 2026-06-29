@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0018499,1,0.6402,Senior Machine Learning Engineer (7.2 yrs exp); 6 AI-core skills; avg assessed 83/100 on AI skills; active 44d ago; RRR 61%; GitHub 95; tier-1 institution; expects 37-57 LPA
+CAND_0011687,2,0.6281,Senior NLP Engineer (7.8 yrs exp); 6 AI-core skills; avg assessed 78/100 on AI skills; active 47d ago; RRR 89%; GitHub 76; tier-1 institution; expects 29-61 LPA
+CAND_0002025,3,0.6263,Senior AI Engineer (5.9 yrs exp); 7 AI-core skills; active 31d ago; RRR 80%; GitHub 97; tier-1 institution; expects 32-64 LPA
+CAND_0071974,4,0.6229,Senior AI Engineer (7.8 yrs exp); 7 AI-core skills; avg assessed 69/100 on AI skills; active 71d ago; RRR 76%; GitHub 83; tier-1 institution; expects 47-58 LPA
+CAND_0086022,5,0.621,Senior Applied Scientist (5.3 yrs exp); 7 AI-core skills; avg assessed 80/100 on AI skills; active 72d ago; RRR 55%; GitHub 75; tier-1 institution; expects 31-73 LPA
+CAND_0088025,6,0.6125,Staff Machine Learning Engineer (8.6 yrs exp); 6 AI-core skills; avg assessed 94/100 on AI skills; active 43d ago; RRR 83%; GitHub 75; tier-2 institution; expects 38-51 LPA
+CAND_0046525,7,0.5881,Senior Machine Learning Engineer (6.1 yrs exp); 5 AI-core skills; avg assessed 87/100 on AI skills; active 34d ago; RRR 88%; GitHub 37; tier-1 institution; expects 28-52 LPA
+CAND_0016163,8,0.5809,Applied ML Engineer (6.7 yrs exp); 7 AI-core skills; avg assessed 87/100 on AI skills; active 76d ago; RRR 72%; GitHub 95; tier-2 institution; expects 33-45 LPA
+CAND_0042506,9,0.5808,Search Engineer (4.2 yrs exp); 6 AI-core skills; avg assessed 74/100 on AI skills; active 35d ago; RRR 48%; GitHub 64; tier-2 institution; expects 43-56 LPA
+CAND_0015582,10,0.5787,ML Engineer (4.4 yrs exp); 7 AI-core skills; avg assessed 68/100 on AI skills; active 33d ago; RRR 82%; tier-1 institution; expects 30-39 LPA
+CAND_0064326,11,0.5785,Search Engineer (7.6 yrs exp); 5 AI-core skills; avg assessed 66/100 on AI skills; active 36d ago; RRR 94%; GitHub 61; tier-2 institution; expects 29-38 LPA
+CAND_0015493,12,0.5756,Data Scientist (6.4 yrs exp); 6 AI-core skills; avg assessed 68/100 on AI skills; active 63d ago; RRR 30%; GitHub 66; expects 24-49 LPA
+CAND_0050876,13,0.5742,Applied ML Engineer (6.0 yrs exp); 6 AI-core skills; avg assessed 58/100 on AI skills; active 31d ago; RRR 67%; GitHub 86; tier-1 institution; expects 28-50 LPA
+CAND_0013393,14,0.5715,ML Engineer (5.3 yrs exp); 7 AI-core skills; avg assessed 60/100 on AI skills; active 98d ago; RRR 33%; tier-2 institution; expects 19-43 LPA
+CAND_0094292,15,0.5696,AI Specialist (6.5 yrs exp); 6 AI-core skills; avg assessed 82/100 on AI skills; active 48d ago; RRR 53%; tier-1 institution; expects 28-28 LPA
+CAND_0081846,16,0.5683,Lead AI Engineer (6.7 yrs exp); 6 AI-core skills; active 54d ago; RRR 73%; GitHub 34; tier-1 institution; expects 33-53 LPA
+CAND_0058688,17,0.5673,AI Engineer (6.7 yrs exp); 6 AI-core skills; avg assessed 67/100 on AI skills; active 90d ago; RRR 74%; GitHub 39; tier-1 institution; expects 41-55 LPA
+CAND_0050454,18,0.5667,AI Engineer (6.8 yrs exp); 6 AI-core skills; avg assessed 59/100 on AI skills; active 60d ago; RRR 77%; tier-1 institution; expects 44-50 LPA
+CAND_0024466,19,0.5662,Search Engineer (5.2 yrs exp); 7 AI-core skills; avg assessed 66/100 on AI skills; active 35d ago; RRR 47%; tier-1 institution; expects 27-39 LPA
+CAND_0091254,20,0.5643,AI Research Engineer (5.2 yrs exp); 7 AI-core skills; avg assessed 65/100 on AI skills; active 118d ago; RRR 53%; tier-1 institution; expects 26-46 LPA
+CAND_0095528,21,0.5616,Senior Data Scientist (5.3 yrs exp); 6 AI-core skills; avg assessed 54/100 on AI skills; active 54d ago; RRR 55%; tier-1 institution; expects 22-62 LPA
+CAND_0054100,22,0.5577,Junior ML Engineer (6.0 yrs exp); 6 AI-core skills; active 32d ago; RRR 79%; GitHub 73; tier-2 institution; expects 25-29 LPA
+CAND_0029671,23,0.5575,Data Scientist (5.7 yrs exp); 5 AI-core skills; avg assessed 69/100 on AI skills; active 30d ago; RRR 50%; tier-2 institution; expects 19-36 LPA
+CAND_0033179,24,0.5573,AI Research Engineer (6.9 yrs exp); 4 AI-core skills; avg assessed 76/100 on AI skills; active 35d ago; RRR 84%; expects 19-35 LPA
+CAND_0029367,25,0.5551,Senior Data Scientist (5.7 yrs exp); 6 AI-core skills; avg assessed 66/100 on AI skills; active 37d ago; RRR 77%; GitHub 40; tier-2 institution; expects 44-41 LPA
+CAND_0029439,26,0.5544,AI Specialist (6.4 yrs exp); 6 AI-core skills; avg assessed 63/100 on AI skills; active 39d ago; RRR 60%; GitHub 13; expects 19-47 LPA
+CAND_0053527,27,0.5525,Junior ML Engineer (7.0 yrs exp); 5 AI-core skills; avg assessed 58/100 on AI skills; active 30d ago; RRR 81%; expects 23-32 LPA
+CAND_0000031,28,0.5515,Recommendation Systems Engineer (6.0 yrs exp); 6 AI-core skills; avg assessed 55/100 on AI skills; active 33d ago; RRR 91%; GitHub 33; tier-2 institution; expects 27-60 LPA
+CAND_0026716,29,0.5484,Computer Vision Engineer (5.6 yrs exp); 7 AI-core skills; active 49d ago; RRR 82%; GitHub 79; tier-1 institution; expects 20-33 LPA
+CAND_0064888,30,0.5474,ML Engineer (5.8 yrs exp); 4 AI-core skills; avg assessed 80/100 on AI skills; active 32d ago; RRR 92%; GitHub 17; tier-1 institution; expects 26-29 LPA
+CAND_0004402,31,0.547,AI Research Engineer (6.0 yrs exp); 4 AI-core skills; avg assessed 85/100 on AI skills; active 32d ago; RRR 83%; tier-1 institution; expects 32-50 LPA
+CAND_0002120,32,0.546,ML Engineer (6.5 yrs exp); 4 AI-core skills; avg assessed 66/100 on AI skills; active 37d ago; RRR 72%; GitHub 50; tier-1 institution; expects 22-42 LPA
+CAND_0033842,33,0.5438,Senior Software Engineer (ML) (5.8 yrs exp); 6 AI-core skills; avg assessed 66/100 on AI skills; active 89d ago; RRR 34%; expects 18-43 LPA
+CAND_0096142,34,0.5395,Applied ML Engineer (5.0 yrs exp); 4 AI-core skills; avg assessed 84/100 on AI skills; active 36d ago; RRR 84%; GitHub 80; tier-1 institution; expects 34-59 LPA
+CAND_0075574,35,0.5371,Machine Learning Engineer (5.7 yrs exp); 4 AI-core skills; avg assessed 74/100 on AI skills; active 40d ago; RRR 58%; GitHub 38; tier-1 institution; expects 42-63 LPA
+CAND_0062247,36,0.5369,AI Engineer (7.3 yrs exp); 6 AI-core skills; active 64d ago; RRR 78%; GitHub 53; tier-1 institution; expects 29-61 LPA
+CAND_0058517,37,0.536,Computer Vision Engineer (5.1 yrs exp); 6 AI-core skills; avg assessed 58/100 on AI skills; active 124d ago; RRR 36%; GitHub 77; tier-1 institution; expects 27-45 LPA
+CAND_0024990,38,0.5358,Junior ML Engineer (5.2 yrs exp); 5 AI-core skills; avg assessed 51/100 on AI skills; active 34d ago; RRR 83%; GitHub 80; expects 27-31 LPA
+CAND_0041568,39,0.5347,Search Engineer (5.2 yrs exp); 6 AI-core skills; avg assessed 65/100 on AI skills; active 81d ago; RRR 52%; tier-1 institution; expects 44-47 LPA
+CAND_0065878,40,0.5347,Senior Data Scientist (7.8 yrs exp); 6 AI-core skills; avg assessed 61/100 on AI skills; active 95d ago; RRR 48%; tier-2 institution; expects 23-56 LPA
+CAND_0068811,41,0.5346,Applied ML Engineer (8.0 yrs exp); 6 AI-core skills; active 36d ago; RRR 42%; GitHub 23; tier-2 institution; expects 27-42 LPA
+CAND_0039754,42,0.5342,Senior Applied Scientist (16.2 yrs exp); 7 AI-core skills; avg assessed 80/100 on AI skills; active 43d ago; RRR 81%; GitHub 78; tier-1 institution; expects 30-62 LPA
+CAND_0092255,43,0.5329,ML Engineer (5.2 yrs exp); 5 AI-core skills; avg assessed 55/100 on AI skills; active 50d ago; RRR 38%; GitHub 78; tier-1 institution; expects 27-47 LPA
+CAND_0036184,44,0.5322,Recommendation Systems Engineer (6.0 yrs exp); 5 AI-core skills; active 31d ago; RRR 90%; GitHub 43; tier-2 institution; expects 32-56 LPA
+CAND_0018549,45,0.5315,Recommendation Systems Engineer (6.8 yrs exp); 5 AI-core skills; avg assessed 61/100 on AI skills; active 59d ago; RRR 73%; GitHub 56; tier-1 institution; expects 33-58 LPA
+CAND_0010541,46,0.5289,AI Research Engineer (6.2 yrs exp); 6 AI-core skills; avg assessed 56/100 on AI skills; active 110d ago; RRR 59%; GitHub 18; tier-2 institution; expects 19-41 LPA
+CAND_0091890,47,0.5285,AI Research Engineer (4.7 yrs exp); 5 AI-core skills; avg assessed 76/100 on AI skills; active 43d ago; RRR 49%; GitHub 83; tier-2 institution; expects 24-34 LPA
+CAND_0088441,48,0.5284,AI Specialist (6.5 yrs exp); 4 AI-core skills; avg assessed 72/100 on AI skills; active 43d ago; RRR 38%; GitHub 68; tier-2 institution; expects 36-28 LPA
+CAND_0098454,49,0.5273,AI Specialist (6.6 yrs exp); 5 AI-core skills; active 30d ago; RRR 87%; GitHub 29; expects 18-44 LPA
+CAND_0001819,50,0.5265,ML Engineer (4.4 yrs exp); 6 AI-core skills; avg assessed 73/100 on AI skills; active 63d ago; RRR 75%; GitHub 72; tier-1 institution; expects 18-28 LPA
+CAND_0083879,51,0.5265,Machine Learning Engineer (7.1 yrs exp); 5 AI-core skills; avg assessed 63/100 on AI skills; active 70d ago; RRR 47%; tier-1 institution; expects 45-62 LPA
+CAND_0071205,52,0.5262,Senior Software Engineer (ML) (4.6 yrs exp); 6 AI-core skills; avg assessed 61/100 on AI skills; active 92d ago; RRR 54%; GitHub 66; tier-1 institution; expects 34-31 LPA
+CAND_0003791,53,0.5261,ML Engineer (6.6 yrs exp); 5 AI-core skills; avg assessed 57/100 on AI skills; active 111d ago; RRR 66%; GitHub 58; tier-1 institution; expects 18-54 LPA
+CAND_0027691,54,0.5258,NLP Engineer (6.5 yrs exp); 5 AI-core skills; avg assessed 72/100 on AI skills; active 87d ago; RRR 68%; GitHub 58; tier-2 institution; expects 26-65 LPA
+CAND_0001267,55,0.5251,Analytics Engineer (6.1 yrs exp); 4 AI-core skills; avg assessed 77/100 on AI skills; active 45d ago; RRR 39%; GitHub 60; tier-1 institution; expects 15-36 LPA
+CAND_0086154,56,0.5248,Data Scientist (6.8 yrs exp); 3 AI-core skills; avg assessed 87/100 on AI skills; active 32d ago; RRR 90%; GitHub 53; tier-2 institution; expects 19-52 LPA
+CAND_0089889,57,0.5231,Data Scientist (4.3 yrs exp); 7 AI-core skills; avg assessed 51/100 on AI skills; active 70d ago; RRR 79%; tier-1 institution; expects 26-28 LPA
+CAND_0051004,58,0.5229,Senior Data Scientist (4.7 yrs exp); 5 AI-core skills; avg assessed 77/100 on AI skills; active 52d ago; RRR 41%; GitHub 31; tier-1 institution; expects 41-39 LPA
+CAND_0070398,59,0.5211,Machine Learning Engineer (7.2 yrs exp); 5 AI-core skills; avg assessed 73/100 on AI skills; active 73d ago; RRR 60%; GitHub 63; tier-1 institution; expects 23-61 LPA
+CAND_0013613,60,0.5199,Machine Learning Engineer (4.7 yrs exp); 6 AI-core skills; avg assessed 76/100 on AI skills; active 95d ago; RRR 73%; GitHub 67; expects 31-50 LPA
+CAND_0063622,61,0.5194,Computer Vision Engineer (5.2 yrs exp); 4 AI-core skills; avg assessed 59/100 on AI skills; active 35d ago; RRR 92%; tier-1 institution; expects 35-45 LPA
+CAND_0052706,62,0.5187,AI Research Engineer (5.1 yrs exp); 5 AI-core skills; avg assessed 42/100 on AI skills; active 52d ago; RRR 79%; expects 34-55 LPA
+CAND_0005649,63,0.5185,Senior Data Scientist (7.4 yrs exp); 6 AI-core skills; active 73d ago; RRR 57%; GitHub 81; tier-2 institution; expects 37-55 LPA
+CAND_0029971,64,0.5177,Junior ML Engineer (5.4 yrs exp); 4 AI-core skills; avg assessed 62/100 on AI skills; active 44d ago; RRR 61%; GitHub 19; tier-1 institution; expects 20-49 LPA
+CAND_0063862,65,0.5175,ML Engineer (5.3 yrs exp); 4 AI-core skills; avg assessed 76/100 on AI skills; active 34d ago; RRR 82%; expects 34-38 LPA
+CAND_0017590,66,0.5169,AI Research Engineer (5.1 yrs exp); 6 AI-core skills; avg assessed 64/100 on AI skills; active 85d ago; RRR 56%; GitHub 19; tier-2 institution; expects 18-54 LPA
+CAND_0010257,67,0.5154,Senior Data Scientist (6.5 yrs exp); 4 AI-core skills; avg assessed 61/100 on AI skills; active 44d ago; RRR 72%; GitHub 46; tier-2 institution; expects 40-47 LPA
+CAND_0072263,68,0.5147,Senior Software Engineer (ML) (6.7 yrs exp); 5 AI-core skills; avg assessed 49/100 on AI skills; active 40d ago; RRR 55%; GitHub 35; expects 23-46 LPA
+CAND_0072688,69,0.5146,Data Scientist (6.9 yrs exp); 4 AI-core skills; avg assessed 57/100 on AI skills; active 34d ago; RRR 87%; GitHub 11; expects 34-33 LPA
+CAND_0037566,70,0.5144,Machine Learning Engineer (6.9 yrs exp); 3 AI-core skills; avg assessed 82/100 on AI skills; active 67d ago; RRR 50%; GitHub 73; tier-2 institution; expects 32-42 LPA
+CAND_0065786,71,0.514,AI Specialist (4.9 yrs exp); 4 AI-core skills; active 34d ago; RRR 89%; GitHub 71; tier-1 institution; expects 37-41 LPA
+CAND_0044222,72,0.5133,AI Engineer (7.7 yrs exp); 5 AI-core skills; active 42d ago; RRR 60%; GitHub 29; tier-1 institution; expects 43-60 LPA
+CAND_0011263,73,0.513,ML Engineer (5.1 yrs exp); 6 AI-core skills; active 54d ago; RRR 42%; tier-2 institution; expects 19-46 LPA
+CAND_0081709,74,0.5128,AI Research Engineer (5.5 yrs exp); 4 AI-core skills; avg assessed 68/100 on AI skills; active 69d ago; RRR 55%; GitHub 67; tier-1 institution; expects 33-30 LPA
+CAND_0026942,75,0.5125,Junior ML Engineer (6.0 yrs exp); 3 AI-core skills; avg assessed 70/100 on AI skills; active 31d ago; RRR 84%; GitHub 67; tier-2 institution; expects 19-39 LPA
+CAND_0083307,76,0.5122,Search Engineer (7.8 yrs exp); 6 AI-core skills; active 97d ago; RRR 70%; GitHub 69; tier-2 institution; expects 24-39 LPA
+CAND_0066999,77,0.512,Recommendation Systems Engineer (5.9 yrs exp); 4 AI-core skills; avg assessed 70/100 on AI skills; active 82d ago; RRR 63%; GitHub 94; tier-1 institution; expects 42-44 LPA
+CAND_0002344,78,0.5119,Senior Software Engineer (ML) (4.7 yrs exp); 5 AI-core skills; avg assessed 60/100 on AI skills; active 77d ago; RRR 83%; GitHub 82; tier-1 institution; expects 38-47 LPA
+CAND_0006418,79,0.5118,Machine Learning Engineer (5.7 yrs exp); 4 AI-core skills; avg assessed 89/100 on AI skills; active 87d ago; RRR 92%; GitHub 60; tier-1 institution; expects 42-63 LPA
+CAND_0091909,80,0.5116,Machine Learning Engineer (6.9 yrs exp); 4 AI-core skills; avg assessed 90/100 on AI skills; active 100d ago; RRR 65%; GitHub 50; tier-1 institution; expects 30-61 LPA
+CAND_0005269,81,0.5114,Senior Software Engineer (ML) (6.1 yrs exp); 3 AI-core skills; avg assessed 88/100 on AI skills; active 58d ago; RRR 28%; GitHub 55; tier-2 institution; expects 28-33 LPA
+CAND_0060835,82,0.5101,Senior Software Engineer (ML) (6.6 yrs exp); 4 AI-core skills; avg assessed 80/100 on AI skills; active 65d ago; RRR 32%; GitHub 82; tier-2 institution; expects 28-37 LPA
+CAND_0099675,83,0.509,Junior ML Engineer (3.9 yrs exp); 4 AI-core skills; avg assessed 80/100 on AI skills; active 31d ago; RRR 78%; GitHub 35; tier-1 institution; expects 31-43 LPA
+CAND_0077956,84,0.5087,Computer Vision Engineer (6.4 yrs exp); 4 AI-core skills; avg assessed 48/100 on AI skills; active 35d ago; RRR 88%; GitHub 41; tier-1 institution; expects 27-47 LPA
+CAND_0016359,85,0.5084,Senior Software Engineer (6.4 yrs exp); 4 AI-core skills; avg assessed 77/100 on AI skills; active 55d ago; RRR 52%; GitHub 64; expects 14-39 LPA
+CAND_0077296,86,0.5082,Computer Vision Engineer (5.8 yrs exp); 3 AI-core skills; avg assessed 54/100 on AI skills; active 37d ago; RRR 50%; GitHub 77; tier-1 institution; expects 25-48 LPA
+CAND_0068932,87,0.508,ML Engineer (5.2 yrs exp); 3 AI-core skills; avg assessed 53/100 on AI skills; active 31d ago; RRR 82%; GitHub 70; expects 17-32 LPA
+CAND_0083852,88,0.5065,Data Scientist (6.0 yrs exp); 4 AI-core skills; active 30d ago; RRR 85%; GitHub 71; tier-2 institution; expects 30-54 LPA
+CAND_0010603,89,0.5064,ML Engineer (5.3 yrs exp); 4 AI-core skills; active 34d ago; RRR 94%; GitHub 79; tier-2 institution; expects 18-33 LPA
+CAND_0010283,90,0.5061,AI Specialist (5.3 yrs exp); 6 AI-core skills; active 67d ago; RRR 55%; GitHub 34; tier-1 institution; expects 17-40 LPA
+CAND_0015967,91,0.5055,Senior Software Engineer (ML) (5.4 yrs exp); 4 AI-core skills; avg assessed 60/100 on AI skills; active 44d ago; RRR 45%; GitHub 26; tier-2 institution; expects 24-53 LPA
+CAND_0020845,92,0.5049,AI Research Engineer (7.0 yrs exp); 4 AI-core skills; avg assessed 44/100 on AI skills; active 36d ago; RRR 35%; tier-1 institution; expects 28-41 LPA
+CAND_0043860,93,0.5046,Junior ML Engineer (6.1 yrs exp); 3 AI-core skills; active 31d ago; RRR 81%; tier-2 institution; expects 16-32 LPA
+CAND_0029024,94,0.5045,Software Engineer (5.2 yrs exp); 4 AI-core skills; avg assessed 82/100 on AI skills; active 48d ago; RRR 72%; tier-1 institution; expects 19-31 LPA
+CAND_0036520,95,0.5033,Data Scientist (4.2 yrs exp); 5 AI-core skills; avg assessed 66/100 on AI skills; active 67d ago; RRR 39%; GitHub 68; tier-1 institution; expects 33-52 LPA
+CAND_0076163,96,0.503,NLP Engineer (6.9 yrs exp); 3 AI-core skills; avg assessed 78/100 on AI skills; active 47d ago; RRR 84%; GitHub 85; tier-2 institution; expects 27-48 LPA
+CAND_0039838,97,0.5028,Recommendation Systems Engineer (4.9 yrs exp); 6 AI-core skills; avg assessed 53/100 on AI skills; active 66d ago; RRR 80%; GitHub 36; tier-1 institution; expects 38-65 LPA
+CAND_0073314,98,0.5022,Senior Software Engineer (ML) (5.2 yrs exp); 4 AI-core skills; active 32d ago; RRR 84%; GitHub 67; tier-2 institution; expects 37-54 LPA
+CAND_0067183,99,0.5017,ML Engineer (6.1 yrs exp); 6 AI-core skills; avg assessed 68/100 on AI skills; active 86d ago; RRR 42%; GitHub 18; expects 37-50 LPA
+CAND_0037160,100,0.5011,Data Scientist (6.0 yrs exp); 5 AI-core skills; active 90d ago; RRR 74%; GitHub 28; tier-1 institution; expects 23-44 LPA
